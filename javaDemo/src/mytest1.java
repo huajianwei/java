@@ -25,6 +25,5 @@ public class mytest1{
         
         writer.close();
 
-
     }
 }
